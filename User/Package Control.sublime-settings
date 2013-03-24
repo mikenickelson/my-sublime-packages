@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ActionScript 3",
+		"Alignment",
+		"BracketHighlighter",
+		"CSSLint",
+		"Dayle Rees Color Schemes",
+		"DetectSyntax",
+		"IndentGuides",
+		"JsFormat",
+		"MacTerminal",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Sublime Finder",
+		"sublime-jslint",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SVN",
+		"SyncedSideBar",
+		"WordHighlight",
+		"ZenCoding"
+	]
+}

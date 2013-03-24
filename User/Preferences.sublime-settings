@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/TronLegacy.tmTheme",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"SublimeBlockCursor",
+		"Vintage",
+		"BracketHighlighter",
+		"IndentGuides",
+		"MacTerminal"
+	],
+	"theme": "Nil.sublime-theme"
+}

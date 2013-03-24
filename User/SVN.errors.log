@@ -1,0 +1,63 @@
+2013-03-07 15:10:08
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-07 15:10:22
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-07 15:10:24
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-07 15:10:54
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-15 10:56:33
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-15 10:56:38
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-15 10:56:42
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-15 10:57:02
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
+2013-03-15 10:57:05
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/listeners.py", line 30, in run
+  File "./sublimesvn/proc.py", line 71, in get_wc_root
+  File "./sublimesvn/proc.py", line 113, in find_wc_root
+KeyError: u'/Users/f502669/_proj/html5/emulator/www'
